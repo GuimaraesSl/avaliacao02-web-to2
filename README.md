@@ -2,8 +2,8 @@
 Segunda Avaliacão de Desenvolvimento Web - Turma T02 - Professor Jefferson Carvalho
 
 ## Alunos:
-Gabriel Al-Samir Guimarães Sales - 536030
-Mariana Aparecida Hofer Gama - 535809
+- Gabriel Al-Samir Guimarães Sales - 536030
+- Mariana Aparecida Hofer Gama - 535809
 
 ## 📚 Documentação
 
