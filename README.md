@@ -32,7 +32,7 @@ Agora que você já possui as ferramentas necessárias, siga os passos abaixo pa
 2. Acesse a pasta do backend e rode o comando abaixo para subir o banco de dados:
 
     ```bash
-    cd backend
+    cd backend/web-prova-2
     docker compose up -d
     ```
 
